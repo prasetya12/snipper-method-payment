@@ -1,0 +1,1 @@
+# snipper-method-payment
